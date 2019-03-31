@@ -1,0 +1,13 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armjlink2.dll" 
+
+"C:\Users\jding\OneDrive\代码\13届智能车程序整理\Prj\IAR\FN15_Debug\Exe\vcan_Kinetis.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.5\arm\config\debugger\NXP\Kxx.dmac" 
+
+
+
+
